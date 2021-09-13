@@ -12,7 +12,7 @@ description: 好用的公共测序数据下载工具
 * Kingfisher是一个高通量测序数据下载工具，用户提供Run accessions或者BioProject accessions，即可在ENA、SRA、Amazon AWS以及Google Cloud等数据库中下载目标数据。Kingfisher会尝试从一系列的数据源进行数据下载，直到某个源能够work。
 * 此外，还能根据用户的需求将下载数据直接输出为SRA、Fastq、Fasta或Gzip等格式，非常方便，不需要自己再对SRA数据通过fasterq-dump进行拆分转换。
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%281%29%20%281%29.png)
 
 ## 二、安装及使用
 
